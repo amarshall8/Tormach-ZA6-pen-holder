@@ -5,6 +5,7 @@ Required materials:
   * Compression spring: https://www.mcmaster.com/9657K332/
   * 12mm steel pipe: https://www.mcmaster.com/6045N11/
   * 12mm linear bearing with circular flange: https://www.mcmaster.com/6483K114/ (Cheap LM12UU bearing with the same circular flange on eBay are what I used)
+  * 1/8" by 1" Steel pin (for endstop cross bar) https://www.mcmaster.com/90145A475/
   * __10x__ 6-32 1/4" heat set inserts:
     * Amazon: https://www.amazon.com/dp/B076R7F3DJ (select long option)
     * McMaster: https://www.mcmaster.com/93365A132/
