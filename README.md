@@ -1,5 +1,5 @@
 # Tormach-ZA6-pen-holder
- A compact, low cost, low tolerance pen drawing module for Tormach ZA6 robotic arms.\
+ A compact, low cost, high precision pen drawing module for Tormach ZA6 robotic arms.\
  More info can be found here https://www.alecmarshall.com/articles/tormach-za6-pen-plotter-module/
 
 Required materials:
